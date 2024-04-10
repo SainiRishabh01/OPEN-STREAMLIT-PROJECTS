@@ -183,7 +183,7 @@ def sideBar():
     graphs()
 
 sideBar()
-st.sidebar.image("data/logo1.png",caption="")
+st.sidebar.image("data/logo2best.svg",caption="")
 
 
 st.subheader('PICK FEATURES TO EXPLORE DISTRIBUTIONS TRENDS BY QUARTILES',)
