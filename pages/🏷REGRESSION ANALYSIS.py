@@ -133,7 +133,7 @@ if submit_button:
   with st.expander("NEW INCOMMING DATA PREDICTION"):
    st.write(f"<span style='font-size: 34px;color:green;'>Predicted Output: </span> <span style='font-size: 34px;'> {new_prediction}</span>", unsafe_allow_html=True)
  
-st.sidebar.image("data/logo1.png",caption="")
+st.sidebar.image("logo2.png",caption="")
 
 
 
